@@ -33,7 +33,7 @@ function App() {
             <button className="continue">Continue</button>
           </div>
           <p className="demo">
-            Get the most out of it - <u>Book a live demo</u>
+            Get the most out of it - <u className="link">Book a live demo</u>
           </p>
         </div>
       </div>
