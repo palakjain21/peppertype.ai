@@ -1,6 +1,6 @@
 .App {
   display: flex;
-  font-family: poppins;
+  font-family: "Poppins", sans-serif;
 }
 .left {
   width: 65%;
@@ -93,7 +93,7 @@ h3 {
   right: 8rem;
   width: 15rem;
   height: 12rem;
-  background-color: #fcf3ed;
+  background-color: rgba(236, 210, 192, 0.2);
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -108,10 +108,10 @@ h3 {
 .irregular2 {
   width: 17rem;
   height: 10rem;
-  background-color: #fcede6;
-  rotate: 7deg;
-  right: 1rem;
-  top: 1rem;
+  right: 2rem;
+  top: 1.5rem;
+  border-radius: 45%;
+  transform: rotate(10deg);
 }
 .help {
   display: flex;
